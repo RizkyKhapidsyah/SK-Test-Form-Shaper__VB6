@@ -1,0 +1,7 @@
+CShaper = 22, 22, 446, 370, 
+CShape = 88, 88, 512, 436, 
+modShaper = 132, 132, 556, 480, 
+CShape_Rect = 0, 0, 424, 348, 
+CShape_Ellipse = 132, 132, 556, 480, 
+CShape_Polygon = 66, 66, 476, 414, 
+CShape_RoundRect = 132, 132, 542, 480, 
